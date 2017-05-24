@@ -1,0 +1,6 @@
+Interface dalam java dalah prototype atau template untuk sebuah class, deskripsi ini hampir serupa dengan class abstrak. 
+class abstrak merupakan Class yang diimplementasikan secara parsial. 
+Interface merupakan class abstrak yang sepenuhnya tidak diimplementasikan yang artinya tidak ada metode yang diimplementasikan. 
+Ketika menulis metode di interface maka badan metode kosong, class – class yang mengimplementasikan interface bertanggung jawab untuk menspesifikasikan implementasi metode – metode ini. 
+Dengan kata lain interface merupakan  sekumpulan metode abstrak yang tidak memiliki implementasi. 
+Interface selalu abstrak meskipun tidak secara ekplisit dideklarasikan sebagai abstrak.
