@@ -1,0 +1,205 @@
+
+ _______________________________________________________________________________________  Nama :ridwan setiawan 
+|Pertemuan  |Materi		  |Penjelasan				|FOLDER GITHUB	| kelas: prolan 11
+|___________|_____________________|_____________________________________|_______________| nim  : 10112133
+|Pertemuan 1|Pengenalan		  |					|		|
+|___________|_____________________|	     				|		|
+	     Peraturan perkuliahan|					|		|
+	     Pengenalan Java 	  |Java adalah bahasa pemograman tingkat|Pertemuan 1	|
+				  |tinggi yang berorientasi objek dan 	|Hello world	|
+				  |program java tersusun dari bagian  	|		|
+				  |yang sebut kelas.			|		|
+	     DI Lab		  |Cara compile menggunakan CMD		|		|
+				  |Membuat hello world			|		|
+				  |Cara menginstal java			|		|
+				  |install java				|		|
+				  |Setting path			 	|		|
+				  |Pengenalan github			|  		|
+__________________________________|_____________________________________|_______________|
+|Pertemuan 2|Konsep OPP dan Java  |					|		|
+|___________|_____________________|_____________________________________|_______________|
+	     Pengenalan lebih	  |suatu Metode pemograman yang beror-	|Pertemuan 2	|
+	     lanjut OOP		  |ientasi objek.			|Biodata	|
+	     DI Lab		  |Pengenalan jvm dan jre serta jdk	|		|
+				  |Pembuatan Program biodata		|		|
+				  |Input dan Output			|		|
+__________________________________|_____________________________________|_______________|
+|Pertemuan 3|Kelas dan Objek      |					|		|
+|___________|_____________________|_____________________________________|_______________|
+	     kelas		  |Merupakan suatu bentuk klasifikasi	|Pertemuan 3	| 
+				  |dari objek-objek yang ada di dunia	|Kelas & objek	|
+				  |ini.					|		|
+				  |Cara akses kelas yaitu:		|		|
+				  | Public   > dapat di akses dari kelas|		|
+				  |	   manapun			|		|
+				  | Private  > hanya dapat di akses dari|		|
+				  |	   kelas itu sendiri		|		|
+				  | Protected> Hanya dapat diakses dari	|		|
+			          |        kelas itu sendiri dan 	|		|
+				  |	   kelas turunannya 		|		|
+				  |contoh class di java			|		|
+			  	  |public class mahasiswa {}		|		|
+				  |					| 		|
+	     Objek		  |objek yang memiliki kesamaan dari    |		|
+				  |segi data dan fungsi	.		|		|
+				  |contohnya 				|		|
+				  |rendy = new mahasiswa		|		|
+				  |					|		|
+            Pengenalan awal	  |Pewarisan membuat kelas yang di	|		|
+	    inheritance	     	  |turunkan dari kelas lain.		|		|
+ 	    analisa object	  |menganalisa objek di sekitar kita.	|		|
+	    			  |					|		|
+	    DI Lab		  |					|		|
+	    Type data             |Type Data di Java			|		|
+				  |byte >tipe data angka dengan ukuran  |		|
+				  |	 8bit komplemen 2		|		|
+				  |short>type data angka dengan ukutan	|		|
+				  |	 16bit komplemen2		|		|
+				  |int  >32 bit komplemen 2		|		|
+				  |long >64 bit komplemen 2		|		|
+				  |double> 32bit IEEE 754 		|		|
+				  |boolean> 1 bit untuk true (1) atau	|		|
+				  |	    false (0).			|		|
+				  |char> untuk menyimpan character	|		|
+	    Variabel		  |Sebuah tempat untuk menampung data   |		|
+	    			  |type variabel:			|		|
+				  |Lokal				|		|
+				  |Instance				|		|
+				  |Static				|		|
+	   Overriding		  |sub-class dari hirarki inheritance.	|		|
+				  |					|		|
+__________________________________|_____________________________________|_______________|
+|Pertemuan 4|Method,konstruktor,  |					|		|
+|	    |this.atribut,OOP	  |				        |		|        
+|___________|_____________________|_____________________________________|_______________|
+	     Method		  |sekumpulan baris program atau 	|Pertemuan 4	|
+				  |proseduryang bersama-sama melakukan	|		|
+				  |Suatu task.				|		|
+	     Konstruktor	  |Sebuah prosedur atau aksi-aksi yang  |		|
+				  |di lakukan ketika kontruktor di      |		|
+				  |panggil/ketika sebuah objek di buat. |		|
+	     This		  |this di gunakan sebagai referensi	|		|
+				  |sebuah objek dari kelas di mana this	|		|
+				  |di gunakan.				|		|
+	     Atribut		  |Data dari sebuah kelas.		|		|
+	     Cara Pembuatan	  |					|		|
+	     Cara pemanggilan	  |					|		|
+	     DI Lab		  |Pembuatan program IPK		|		|
+	                          |Operator pada java			|		|
+				  |Aritmatika,relasional,logika,	|		|	
+				  |assigment,MISC			|		|
+__________________________________|_____________________________________|_______________|
+|Pertemuan 5|Inheritance 	  |					|		|
+|___________|_____________________|_____________________________________|_______________|
+	     Inheritance	  |Pewarisan membuat kelas yang di	|Pertemuan 5	|
+				  |turunkan dari kelas lain.		|		|
+				  |class bapak {}			|		|  					|
+				  |Class anak extends baoaj {}          |		|	
+				  |Super kelas mirip dengan this        | 		|
+				  |super.atribut|		        |		|
+	     DI Lab		  |Penyembpurnaan tugas sebelumnya	|		|
+				  |Membuat program cari angka		|		|
+__________________________________|_____________________________________|_______________|
+|Pertemuan 6-7|Overriding& 	  |					|		|
+|	      |Polimorfisme	  |		               		|		|
+|_____________|___________________|_____________________________________|_______________|
+	       Overiding	  |pada sub-kelas dari hirarki		|pertemuan 6-7	| 
+				  |inheritance dimungkinkan untuk modi- |		|
+				  |fikasi .				|		|
+				  |proses ini di sebut dengan method ov-|		|
+				  |rriding.				|		|
+				  |Aturan overiding			|		|
+				  |method yang di override adalah meth-	|		|
+				  |od yang di turunkan melalui proses	|		|
+				  |inheritance.				|		|
+	       DI Lab  		  |		                        |		|
+	       Polimorfisme       |adalah kemampuan sebuah objek yang	|		| 
+				  |dapat memiliki banyak bentuk kelas.	|		|
+__________________________________|_____________________________________|_______________|
+|Pertemuan 8|UTS 		  |					|		|
+|_________________________________|_____________________________________|_______________|
+|Pertemuan 9|Abstrak	          |					|		|
+|___________|_____________________|_____________________________________|_______________|
+	     Abstrak		  |adalah proses untuk menyembunyikan   |pertemuan 9 	|
+				  |detil proses yang di lakukan         |		|
+				  |kelas abstrak harus di turunkan 	|		|
+				  |kepada kelas lain.			|		|
+				  |Kelas abstrak tidak dapat di		|		|
+				  |instansiasi.				|		|
+	     DI Lab		  |Pembuatan program calculator.         |		|
+_________________________________ |_____________________________________|_______________|
+|Pertemuan10|Encapsulation        |					|		|
+|___________|_____________________|_____________________________________|_______________|
+	     Encapsulation        |(pembungkusan)adalah sebuah proses   |pertemuan 10   |
+				  |mebungkus data dan fungsi dari sebuah|		|
+				  |kelas.				|		|
+	     Di Lab		  |Percobaan encapsulation		|		|
+				  |Pengenalan shortcut			|		|
+_________________________________ |_____________________________________|_______________|
+|Pertemuan11|Interface            |					|		|
+|___________|_____________________|_____________________________________|_______________|		
+	     Interface		  |adalah sebuah reference type yang 	|pertemuan 11	|
+				  |mirip dengan kelas.			|		|
+				  |reference type adalah suatu type 	|		|	
+				  |data yg berdasarkan pada kelas,	|		|
+				  |interface,atau array.		|		|
+				  |interface berisi sekumpulan method	|		|
+				  |abstrak.				|		|
+	     DI Lab		  |penjelasan tagging interface		|		|
+				  |meneruskan program			|		|
+_________________________________ |_____________________________________|_______________|
+|Pertemuan12|Generic Class	  |					|		|
+|___________|_____________________|_____________________________________|_______________|
+	     Generic CLass	  |adalah kelas yang universal /umum.   |pertemuan 12	|
+				  |pada kelas generic kelas bebas 	|		|
+				  |menentukan sendiri ingin sperti apa. |		|
+				  |generic pada java di tentukan sebagai|		|
+				  |parameter type.			|		|
+	    DI Lab		  |parameter objek melalui generic	|		|
+_________________________________ |_____________________________________|_______________|
+|Pertemuan13|Generic method	  |					|		|
+|___________|_____________________|_____________________________________|_______________|
+	     Generic method	  |Generic method di gunakan untuk 	|pertemuan 13	|
+				  |menyatakan type parameter method yang|		|
+				  |method yang tidak berkaitan dengan   |		|
+				  |type paramater yang di miliki kelas  |		|
+	     Di Lab		  |Pengerjaan program (Sprint)		|		|
+_________________________________ |_____________________________________|_______________|
+|Pertemuan14|packages	          |					|		|
+|___________|_____________________|_____________________________________|_______________|
+	     packages		  |packages di gunakan untuk menghindari|pertemuan 14   |
+				  |penamaan kelas,interface,dll.	|		|
+				  |packages dapat di gunakan programmer |		|
+				  |untuk membungkus kelas interface	|		|
+				  |tertentu.				|		|
+				  |					|		|
+	     quiz		  |100 class 10 package			|		|		
+	     Di Lab		  |pengerjaan program			|		|
+_________________________________________________________________________________________
+			 
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
